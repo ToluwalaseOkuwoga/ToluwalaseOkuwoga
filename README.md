@@ -4,3 +4,5 @@
 - 💞️ I’m looking to collaborate on any exciting project in the data space
 - 📫 How to reach me - email - toluwalaseokuwoga@yahoo.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toluwalaseokuwoga)](https://github.com/anuraghazra/github-readme-stats)
+

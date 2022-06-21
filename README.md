@@ -1,4 +1,4 @@
-- 👋🏽 Hi, I’m Toluwalase Okuwoga
+- 👋🏽 Hi, I’m Tolu
 - 🧑🏽‍💻 I’m on a journey to becoming a full-stack data professional
 - 🌱 I’m currently interested in growth analytics, product analytics, and analytics engineering
 - 💼 I’m looking to collaborate on any exciting project in the data space

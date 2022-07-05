@@ -4,7 +4,7 @@
 - 💼 I’m looking to collaborate on exciting data projects
 - 📩 How to reach me - <a href="mailto:okuwogatoluwalase@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[Email](mailto:okuwogatoluwalase@gmail.com?)
+[Email](mailto:okuwogatoluwalase@gmail.com)
 
 
 

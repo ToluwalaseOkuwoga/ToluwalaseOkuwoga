@@ -4,7 +4,7 @@
 - 💼 I’m looking to collaborate on exciting data projects
 - 📩 How to reach me - email - okuwogatoluwalase@gmail.com
 
-[Email](okuwogatoluwalase@gmail.com)
+<a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toluwalaseokuwoga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

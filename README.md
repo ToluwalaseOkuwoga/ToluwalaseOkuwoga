@@ -1,9 +1,12 @@
-👋🏽 Hi, I’m Tolu
-🏆 Data Scientist/Analyst | ML & Analytics Engineering
+👋 Hi, I’m Tolu, an Analytics Engineer with a strong background in data analytics, machine learning, and product insights.
 
-I specialize in data analytics, machine learning, and automation, transforming complex data into actionable insights. Experienced in ride-hailing, SaaS, and fintech, I’ve led predictive modelling, ETL workflows, KPI frameworks, and ML-powered solutions to drive business impact.
+🔧 I build scalable data pipelines, dbt models, and analytics solutions that empower teams to make better decisions.
+📊 Experienced with SQL (Athena, Presto, Spark), Python, Databricks, Airflow, Looker, and modern data stack tools.
+🧩 My work spans analytics engineering, data science, and product analytics, from designing efficient ETL pipelines to building causal inference models and cost-savings frameworks.
 
-📊 Tech: Python, SQL, dbt, Databricks, BigQuery, AWS Athena, Looker, TensorFlow
+💡 Currently: Analytics Engineer @ Bondora
+🌍 Previously: Senior Data Analyst @ Bolt (Operations analytics) and @ Pipedrive (Product analytics).
+
 📩 Email - okuwogatoluwalase@gmail.com
 
 

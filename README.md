@@ -7,6 +7,7 @@
 🧩 My work spans analytics engineering, data science, and product analytics, from designing efficient ETL pipelines to building causal inference models and cost-savings frameworks.
 
 💡 Currently: Analytics Engineer @ Bondora
+
 🌍 Previously: Senior Data Analyst @ Bolt (Operations analytics) and @ Pipedrive (Product analytics).
 
 📩 Email - okuwogatoluwalase@gmail.com

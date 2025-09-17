@@ -9,6 +9,3 @@
 
 📩 Email - okuwogatoluwalase@gmail.com
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toluwalaseokuwoga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
